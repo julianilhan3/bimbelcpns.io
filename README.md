@@ -1,2 +1,2 @@
-# bimbelcpns.io
+# bimbelcpns
 Demo-Landing Page Mini Tryout
